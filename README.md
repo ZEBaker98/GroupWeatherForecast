@@ -1,2 +1,2 @@
 # GroupWeatherForecast
-Group Study - Open Weather API
+Group Study  -  Open Weather API
