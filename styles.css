@@ -1,0 +1,36 @@
+/* reset styles */
+body, div, h3 {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    margin-top: 15px;
+    max-width: 500px;
+    background: linear-gradient(#67E6EC, #D1EEEE);
+    border: 1px solid lightgray;
+    border-radius: 8px;
+}
+
+#location {
+    text-align: center;
+    font-size: 2.5em;
+    color: rgb(83, 96, 104);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#hi-temp, #low-temp, #description {
+    font-size: 2em;
+    text-align: center;
+    color: #68838B;
+}
+
+#description {
+    text-transform: capitalize;
+}
